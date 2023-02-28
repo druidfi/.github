@@ -1,5 +1,7 @@
 ## Hi, welcome to our GitHub (where the magic happens) ✨
 
+![Druid making Magic](banner.jpg "Druid making Magic")
+
 Our work is about building a better web – with open source and an open attitude. From accessible websites and digital services to useful everyday applications, we are dedicated in solving problems and creating high-quality solutions that can have a tangible impact on our future.
 
 ## A community for developers by developers
